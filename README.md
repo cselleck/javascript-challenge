@@ -1,7 +1,7 @@
 # javascript-challenge
 Week 14 homework
 
-## See the website at https://cselleck.github.io/javascript-challenge/
+### See the website at https://cselleck.github.io/javascript-challenge/
 
 # JavaScript Homework - JavaScript and DOM Manipulation
 
